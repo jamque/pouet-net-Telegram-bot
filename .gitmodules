@@ -1,0 +1,4 @@
+[submodule "Telegram-PHP-App"]
+	path = Telegram-PHP-App
+	url = https://github.com/duhow/Telegram-PHP-App
+	branch = master
